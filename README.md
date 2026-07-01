@@ -18,18 +18,29 @@ plus what would change it.
 
 ```
 founder-decision/
-├── SKILL.md                         # the 6-step process + the "co-founder who argues" posture
+├── SKILL.md                          # the 6-step process + the "co-founder who argues" posture
 └── references/
-    ├── mental-models.md             # 12 models, each with the question it forces on you
-    ├── failure-patterns.md          # how startups actually die + recurring anti-patterns
-    ├── book-principles.md           # 9 books distilled into applicable principles
-    ├── decision-frameworks.md       # pre-mortem, WRAP, two-way doors, expected value…
-    └── your-context.example.md      # optional: anchor the copilot to YOUR venture
+    ├── mental-models.md              # 12 models, each with the question it forces on you
+    ├── failure-patterns.md           # how startups actually die + real post-mortem databases
+    ├── book-principles.md            # the book canon distilled into applicable principles
+    ├── investors-and-accelerators.md # YC / a16z / Sequoia / Founders Fund / Draper wisdom
+    ├── decision-frameworks.md        # pre-mortem, WRAP, two-way doors, expected value…
+    └── your-context.example.md       # optional: anchor the copilot to YOUR venture
 ```
 
-The canon it draws on: *Zero to One*, *The Hard Thing About Hard Things*, *The Lean
-Startup*, *Shoe Dog*, *Start-up Nation*, Paul Graham / Y Combinator, Naval, *The
-Innovator's Dilemma*, *Crossing the Chasm*.
+**The book canon:** *Zero to One*, *The Hard Thing About Hard Things*, *The Lean Startup*,
+*The Mom Test*, *Shoe Dog*, *Start-up Nation*, *High Output Management*, *Blitzscaling*, the
+Isaacson/Vance biographies of *Steve Jobs* and *Elon Musk*, *The Diary of a CEO*, Paul
+Graham, Naval, *The Innovator's Dilemma*, *Crossing the Chasm* — plus a "further canon"
+list of strong candidates to add next.
+
+**Investor & operator wisdom:** Y Combinator / Startup School, Andreessen Horowitz,
+Sequoia, Founders Fund, Draper, First Round — with a built-in caveat that VC advice
+optimizes for venture-scale outcomes and can mislead bootstrappers.
+
+**Real failure post-mortems:** grounded in [Failory](https://www.failory.com/) and
+[startups.rip](https://startups.rip/) so the "how startups die" checks cite lived stories,
+not abstractions.
 
 ## How the copilot thinks
 

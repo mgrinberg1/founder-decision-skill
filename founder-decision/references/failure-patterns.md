@@ -68,3 +68,38 @@ startups end.
   anyone wants the core.
 - **Ignoring the default-dead math.** Not knowing your runway and growth rate well enough
   to say whether, on current trajectory, you live or die.
+
+## Living sources of post-mortems
+
+Two databases worth consulting (or pointing the founder to) when a decision echoes a real
+failure — they turn "startups fail" from an abstraction into concrete cautionary tales.
+
+### Failory (failory.com)
+Curates real founder failure stories and post-mortems. Its premise: **~90% of startups fail,
+and there's more to learn from failures than successes.** Recurring, concrete patterns from
+its case studies:
+- **Overbuilding infrastructure ahead of demand** — e.g. a startup that built a large factory
+  and used ~10% of its capacity. Premature scaling / capital sunk into capacity nobody needed.
+- **Product reliability never reaching the bar** — a product (an AI service) that couldn't hit
+  the reliability the market required, so adoption never came. "Almost works" doesn't sell.
+- **Underfunding an ambitious scope** — trying to build heavy, global infrastructure on far
+  too little capital. The ambition and the runway were mismatched.
+
+### startups.rip (startups.rip)
+"Startups die. Ideas don't." Documents 1,800+ *defunct Y Combinator* companies with retros —
+a graveyard of specifically vetted, well-funded startups, which makes it sobering: these had
+YC's stamp and still died. Patterns it surfaces:
+- **Market timing & adoption** — right idea, market not ready or never adopting (recurring in
+  education and consumer-delivery plays).
+- **Niche saturation / commoditization** — specialized tools and marketplaces crushed by
+  entrenched competitors or unable to sustain differentiation.
+- **Regulatory + unit-economics grind** — fintechs that couldn't make compliance and margins
+  work together.
+- **"Acquired" is often not success** — many were absorbed for their tech/team, not because
+  they built a lasting independent company. A reframe worth remembering: an acqui-hire can be
+  a soft landing for a company that failed to stand on its own. Don't mistake an exit for a win
+  when weighing a decision.
+
+**How to use these:** when a decision matches one of these lived patterns, say so and, if the
+founder wants to go deeper, point them to the relevant story rather than inventing a generic
+warning. Real post-mortems persuade in a way that abstractions don't.

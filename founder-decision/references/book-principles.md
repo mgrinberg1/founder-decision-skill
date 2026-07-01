@@ -8,12 +8,19 @@ usually just use the principle.
 - Zero to One (Thiel)
 - The Hard Thing About Hard Things (Horowitz)
 - The Lean Startup (Ries)
+- The Mom Test (Fitzpatrick)
 - Shoe Dog (Knight)
 - Start-up Nation (Senor & Singer)
 - Paul Graham / Y Combinator
 - Naval Ravikant
 - The Innovator's Dilemma (Christensen)
 - Crossing the Chasm (Moore)
+- High Output Management (Grove)
+- Blitzscaling (Hoffman & Yeh)
+- Steve Jobs (Isaacson)
+- Elon Musk (Isaacson / Vance)
+- The Diary of a CEO (Bartlett)
+- Further canon worth adding
 
 ---
 
@@ -56,6 +63,22 @@ good option" moments.
 
 **Apply to:** "should we build X?", launch scope, validation, pivot decisions, reducing
 the cost of being wrong.
+
+## The Mom Test — Rob Fitzpatrick
+The antidote to the #1 killer (building what nobody wants) — it's about how to talk to
+customers so they *can't* lie to you with polite encouragement.
+- **Talk about their life, not your idea.** The moment you pitch, people start being nice.
+  Ask about their problems and world instead of your solution.
+- **Ask about the past, not the future.** "Would you use this?" is worthless — everyone says
+  yes. "Walk me through the last time you hit this problem — what did you do, what did it
+  cost you?" is real data. Past behavior predicts; hypothetical enthusiasm doesn't.
+- **Compliments and "I would totally buy that" are fluff, not validation.** The only signals
+  that count are commitments: time, reputation, or money on the table.
+- **Dig for the real problem and what they've already tried** (or paid) to solve it. If they
+  haven't tried anything, it's not a real problem.
+
+**Apply to:** customer research, "is there demand?", validating before building, reading
+whether early interest is real or polite.
 
 ## Shoe Dog — Phil Knight
 - **Cash flow is oxygen.** Nike nearly died repeatedly not from lack of demand but from
@@ -121,3 +144,97 @@ cheaper approach is actually the wedge.
 
 **Apply to:** go-to-market, segment focus, "why did early buzz stall?", scaling from first
 fans to a real market.
+
+## High Output Management — Andy Grove
+The operating manual for when the decision is about *managing and scaling*, not the product.
+- **A manager's output = the output of their team + the teams they influence.** Judge your
+  own decisions by what your org produces, not by how busy you are.
+- **Leverage.** Spend your time on the activities that ripple across many people (training,
+  a key hire, a process fix) — high-leverage acts beat heroic individual effort.
+- **Task-relevant maturity.** How much to delegate vs. direct depends on how experienced the
+  person is *at this specific task* — not their seniority in general.
+- **The one decision that matters is the one where you have the most leverage to change the
+  outcome** — spend disproportionate attention there.
+
+**Apply to:** hiring, delegation, org/process decisions, where to spend your own time,
+scaling a team.
+
+## Blitzscaling — Reid Hoffman & Chris Yeh
+- **Prioritize speed over efficiency when — and *only* when — you're in a winner-take-most
+  race.** In a market where the biggest player captures the market, being first to scale
+  beats being efficient; accept inefficiency and even fires to grab the position.
+- **This is conditional, not a default.** Blitzscaling burns enormous capital and breaks
+  things; it's the right move only when the prize is a durable monopoly and speed decides
+  who wins. For most businesses (no network effects, no land-grab), it's reckless.
+- **"If you're not embarrassed by your first version, you launched too late."** Speed of
+  iteration and learning is itself a moat.
+
+**Apply to:** whether to scale aggressively vs. stay lean, raising a big round to grab a
+market, timing of expansion. *Cross-check with cash reality (Shoe Dog) and whether you're
+actually in a winner-take-most market before applying.*
+
+## Steve Jobs — Walter Isaacson
+- **Focus is saying no.** "Deciding what not to do is as important as deciding what to do."
+  Jobs cut Apple's product line to four quadrants. When overwhelmed by options, the move is
+  usually subtraction, not addition.
+- **End-to-end quality / integration.** Control the whole experience rather than shipping a
+  piece and hoping the rest is good enough. Taste and details customers can feel are a moat.
+- **Small teams of A-players.** "It's better to have a small team of A players than a large
+  team of B and C players." One brilliant hire beats several mediocre ones.
+- **Reality distortion field — double-edged.** Fierce conviction can bend what people think
+  is possible and pull greatness out of a team — but the same force can blind you to real
+  constraints and honest feedback. Use the conviction; keep a truth-teller nearby.
+- **Simplicity is the ultimate sophistication** — earned by removing, not adding.
+
+**Apply to:** focus/prioritization, product quality, hiring bar, when to say no, standards.
+
+## Elon Musk — Isaacson / Ashlee Vance
+- **First principles, ruthlessly applied.** Reason from the physics/cost of the thing, not
+  from "what it usually costs." The exemplar of the first-principles model — used it to
+  collapse rocket and battery costs by building instead of buying.
+- **"The algorithm" (in order): question every requirement → delete the part/process →
+  simplify → accelerate → automate.** Crucially, *delete before you optimize* — the most
+  common error is speeding up or automating something that shouldn't exist. Great general
+  operating heuristic for any process decision.
+- **Extreme urgency as a forcing function.** Aggressive (often "impossible") deadlines
+  surface what's truly necessary and expose fake constraints — even when missed, they pull
+  progress forward.
+- **Vertical integration when suppliers can't deliver** the cost or speed you need.
+- **Bet-the-company risk tolerance** — but paired with obsessive engagement, not gambling.
+- **The cost — cross-check.** The same intensity produces burnout, scorched relationships,
+  and enormous personal toll. A decision that copies Musk's *aggression* without his context
+  (capital, mission, risk appetite) can be self-destructive. Take the reasoning method;
+  don't cargo-cult the recklessness.
+
+**Apply to:** cost structure, first-principles bets, build-vs-buy, process simplification,
+ambition/scope, urgency.
+
+## The Diary of a CEO — Steven Bartlett (The 33 Laws)
+- **Fill your five buckets in order: knowledge, skills, network, resources, reputation.**
+  Early on, invest in the first two — they're the ones nobody can take from you and they
+  generate the rest. Don't chase resources (money) before you've built knowledge and skill.
+- **You must sweat for your relevance.** Attention and distribution aren't beneath the work —
+  they *are* part of the work. A great product nobody hears about still fails.
+- **Sweat the small stuff (the "marginal gains" / Kleiner-jar idea).** Tiny details customers
+  notice compound into how the brand feels. Excellence is an accumulation of small things.
+- **Psychological safety drives team performance** — people do their best work when they're
+  not afraid to speak up or fail.
+- **Avoid "wantrepreneurship"** — the trap of loving the *idea* of building more than doing
+  the unglamorous work.
+
+**Apply to:** personal strategy, self-investment, brand/marketing/distribution, team culture,
+early-career founder decisions.
+
+## Further canon worth adding
+Stubs — strong candidates to distill into full entries as the skill grows (see the "Extend
+it" section of the README). Each is here because it addresses a decision the current set
+covers thinly:
+- **Founders at Work** (Livingston) — messy origin stories; pivots and near-death are the norm.
+- **Traction** (Weinberg & Mares) — the 19 channels; systematically test channels for growth.
+- **Never Split the Difference** (Voss) — negotiation (fundraising, big deals, hiring, exits).
+- **Amp It Up** (Slootman) — raise standards, narrow focus, increase pace; execution intensity.
+- **Rework / It Doesn't Have to Be Crazy at Work** (Fried & Hansson) — the bootstrapped,
+  calm, profit-first counterpoint to blitzscaling. Important balance for non-VC founders.
+- **The E-Myth Revisited** (Gerber) — work *on* the business, not *in* it; systemize.
+- **Good to Great** (Collins) — Level 5 leadership, the Hedgehog Concept, first who then what.
+- **The $100 Startup** (Guillebeau) — lean, bootstrapped, profitable-from-day-one path.

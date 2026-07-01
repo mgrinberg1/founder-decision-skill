@@ -122,9 +122,19 @@ cite the author. Reach for what's relevant:
 - **Paul Graham / Y Combinator** — do things that don't scale; talk to users; default
   alive vs. default dead; make something people want.
 - **Naval** — play long-term games with long-term people; specific knowledge; leverage.
+- **Biographies (Jobs, Musk)** — focus as saying no; first-principles cost bets; delete
+  before you optimize. Take the *reasoning*, not the recklessness.
+- **YC / VCs (a16z, Sequoia, Founders Fund, Draper)** — make something people want; market
+  matters most; "why now?"; default alive. See `references/investors-and-accelerators.md`.
 
-Details and more principles in `references/book-principles.md`. Pull only what earns its
-place — two well-applied ideas beat six name-drops.
+Details and more principles in `references/book-principles.md`; investor/accelerator wisdom
+in `references/investors-and-accelerators.md`. Pull only what earns its place — two
+well-applied ideas beat six name-drops.
+
+**Critical caveat when using VC/accelerator advice:** most of it optimizes for
+venture-scale, winner-take-most outcomes. If the founder is bootstrapping or building a
+profitable/lifestyle business, blitzscale logic is *actively harmful*. Before applying it,
+figure out which game they're playing and match the advice — and the yardstick — to that.
 
 ### 6. Give the call
 
