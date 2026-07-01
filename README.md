@@ -24,23 +24,34 @@ founder-decision/
     ├── failure-patterns.md           # how startups actually die + real post-mortem databases
     ├── book-principles.md            # the book canon distilled into applicable principles
     ├── investors-and-accelerators.md # YC / a16z / Sequoia / Founders Fund / Draper wisdom
+    ├── founder-operating-state.md    # the founder as decision instrument (sleep, stress, focus)
+    ├── podcasts-and-voices.md        # non-canon audio sources (regional & science voices)
     ├── decision-frameworks.md        # pre-mortem, WRAP, two-way doors, expected value…
     └── your-context.example.md       # optional: anchor the copilot to YOUR venture
 ```
 
-**The book canon:** *Zero to One*, *The Hard Thing About Hard Things*, *The Lean Startup*,
-*The Mom Test*, *Shoe Dog*, *Start-up Nation*, *High Output Management*, *Blitzscaling*, the
-Isaacson/Vance biographies of *Steve Jobs* and *Elon Musk*, *The Diary of a CEO*, Paul
-Graham, Naval, *The Innovator's Dilemma*, *Crossing the Chasm* — plus a "further canon"
-list of strong candidates to add next.
+**The book canon:** *The Art of War*, *Zero to One*, *The Hard Thing About Hard Things*,
+*The Lean Startup*, *The Mom Test*, *Shoe Dog*, *Start-up Nation*, *High Output Management*,
+*Blitzscaling*, the Isaacson/Vance biographies of *Steve Jobs* and *Elon Musk*, *The Diary of
+a CEO*, Paul Graham, Naval, *The Innovator's Dilemma*, *Crossing the Chasm* — plus a "further
+canon" list of strong candidates to add next.
 
 **Investor & operator wisdom:** Y Combinator / Startup School, Andreessen Horowitz,
 Sequoia, Founders Fund, Draper, First Round — with a built-in caveat that VC advice
 optimizes for venture-scale outcomes and can mislead bootstrappers.
 
+**The founder's operating state:** grounded in the science popularized by *Huberman Lab* —
+because a decision run on a sleep-deprived, stress-spiked brain is a worse decision, no
+matter how good the process on top of it.
+
 **Real failure post-mortems:** grounded in [Failory](https://www.failory.com/) and
 [startups.rip](https://startups.rip/) so the "how startups die" checks cite lived stories,
 not abstractions.
+
+**Regional & audio voices:** a scaffold for non-canon sources (e.g. Argentina's *La Fábrica*
+for real-economy founder stories, *Purple Mango* for science/biotech ventures) whose
+episode-level lessons are added from actual listens rather than fabricated — because faithful
+distillation beats confident invention.
 
 ## How the copilot thinks
 

@@ -68,7 +68,10 @@ Classify the decision as **reversible (two-way door)** or **irreversible (one-wa
   decide and move.
 - **One-way door** → being wrong is expensive or permanent (equity splits, key hires,
   taking money from the wrong investor, a public pivot, burning a reputation). Slow down,
-  gather more information, apply real scrutiny.
+  gather more information, apply real scrutiny. **Before pulling an irreversible trigger,
+  check the operator, not just the analysis:** if the founder is sleep-deprived, running on
+  a stress spike, or deciding at their daily low, the instrument is degraded — the right
+  move is often "sleep on it, decide tomorrow." See `references/founder-operating-state.md`.
 
 Founders systematically get this backwards — agonizing over reversible calls and rushing
 irreversible ones. Correct that if you see it.
@@ -126,10 +129,16 @@ cite the author. Reach for what's relevant:
   before you optimize. Take the *reasoning*, not the recklessness.
 - **YC / VCs (a16z, Sequoia, Founders Fund, Draper)** — make something people want; market
   matters most; "why now?"; default alive. See `references/investors-and-accelerators.md`.
+- **Sun Tzu (The Art of War)** — win before you fight; know yourself and your opponent;
+  avoid strength, attack weakness — but don't turn rivals or customers into enemies.
+- **Regional / audio voices** — `references/podcasts-and-voices.md` holds non-canon sources
+  (e.g. real-economy LatAm founder stories) with episode-level lessons added over time; use
+  it when the book canon's Silicon Valley assumptions don't fit the founder's context.
 
 Details and more principles in `references/book-principles.md`; investor/accelerator wisdom
-in `references/investors-and-accelerators.md`. Pull only what earns its place — two
-well-applied ideas beat six name-drops.
+in `references/investors-and-accelerators.md`; the founder's own state (which silently gates
+decision quality) in `references/founder-operating-state.md`. Pull only what earns its place —
+two well-applied ideas beat six name-drops.
 
 **Critical caveat when using VC/accelerator advice:** most of it optimizes for
 venture-scale, winner-take-most outcomes. If the founder is bootstrapping or building a

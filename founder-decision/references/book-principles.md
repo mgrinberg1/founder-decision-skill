@@ -5,6 +5,7 @@ Actionable principles from the entrepreneurial canon — organized so you can ap
 usually just use the principle.
 
 ## Table of contents
+- The Art of War (Sun Tzu)
 - Zero to One (Thiel)
 - The Hard Thing About Hard Things (Horowitz)
 - The Lean Startup (Ries)
@@ -23,6 +24,32 @@ usually just use the principle.
 - Further canon worth adding
 
 ---
+
+## The Art of War — Sun Tzu
+Ancient strategy, and the most over-quoted book in business — so use it for genuine
+strategic reasoning, not swagger. The durable ideas:
+- **Win before you fight.** "The supreme art of war is to subdue the enemy without
+  fighting." The best competitive position is one where you don't have to battle at all —
+  you've already won on positioning, timing, or a moat. (Echoes Zero to One's monopoly.)
+- **Know yourself and know your opponent.** "If you know the enemy and know yourself, you
+  need not fear a hundred battles." Most losses come from self-delusion — about your real
+  capabilities, or about a competitor/market you never honestly studied.
+- **Avoid strength, attack weakness.** Don't charge a competitor where they're strongest.
+  Find the undefended position — the segment or need they ignore. (Ties to the beachhead
+  and to disruption from below.)
+- **Speed and timing.** Move decisively when the opening appears; a fast good move beats a
+  slow perfect one. Position on favorable terrain (the market/segment/channel you choose to
+  fight on) before engaging.
+- **Don't fight unnecessary battles.** The wise general avoids wars of attrition that drain
+  resources for little gain. Pick the few fights that matter; decline the rest.
+
+**Big caveat:** business is mostly *not* war — it's largely positive-sum, and customers and
+partners are not enemies. Take the strategic clarity (positioning, honest assessment,
+picking battles); do **not** turn every rival into a foe or become adversarial with the
+people you should be building long-term games with.
+
+**Apply to:** competitive strategy, positioning, timing, which battles/markets to fight —
+and, just as often, which *not* to.
 
 ## Zero to One — Peter Thiel
 - **Aim for monopoly, not competition.** Competition erodes profit. Own a small market
